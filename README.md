@@ -3,6 +3,7 @@
 ### Hi 👋 there 👋
 
 In case of emergency please concact me on LinkedIn or via email. 
+Chechkout my [homepage](https://markkovari-io.vercel.app/), which is heavily WIP
 
 Thank you 🙇
 
