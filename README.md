@@ -1,7 +1,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=markkovari&show_icons=true&count_private=true">
 
 
-[https://www.codewars.com/users/markkovari/badges/micro](https://www.codewars.com/users/markkovari/badges/small)
 ### Hi 👋 there 👋
 
 You know olny these wars are acceptable...
