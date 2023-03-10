@@ -1,11 +1,19 @@
-<div>
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=markkovari&show_icons=true&count_private=true&theme=transparent">
+# Stats
 
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=markkovari&theme=gruvbox&count_private=true)">
-</div>
+<table>
+  <tr>
+    <th>General</th>
+    <th>Language specific</th> 
+  </tr>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=markkovari&show_icons=true&count_private=true&theme=transparent"></td>
+    <td><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=markkovari&theme=gruvbox&count_private=true)"></td> 
+  </tr>
+</table>
 
+# A boat me
 
-### Hi 👋 there 👋
+Hi 👋 there 👋
 
 You know olny these wars are acceptable...
 
