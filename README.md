@@ -1,8 +1,9 @@
 # Stats
 
-| General | Language specific |
-| ------- | ----------------- |
-| ![GitHub Stats][href-github-stats] | ![Top Languages][href-github-stats-top-languages] |
+| General | Language specific | DailyDev |
+| ------- | ----------------- | --------- |
+| ![GitHub Stats][href-github-stats] | ![Top Languages][href-github-stats-top-languages] | <a href="https://app.daily.dev/markkovari"><img src="https://api.daily.dev/devcards/cdccfa4eaf1c4a1d9de0fc4795f1b407.png?r=gwn" width="400" alt="Márk Kővári's Dev Card"/></a>
+
 
 ## A boat me
 
